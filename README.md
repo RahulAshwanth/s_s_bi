@@ -13,7 +13,7 @@ This project is an interactive Power BI dashboard designed to analyze and foreca
 
 * Financial Forecasting: Implemented a 15-day sales forecast using time-series analysis, helping stakeholders with proactive planning.
 
-* Dynamic Visuals: Designed interactive charts and graphs to track KPIs, sales trends, and profitabili ty.
+* Dynamic Visuals: Designed interactive charts and graphs to track KPIs, sales trends, and profitability.
 
 * Data Consistency: Cleaned and integrated multi-source datasets, ensuring high data quality and reliability.
 
