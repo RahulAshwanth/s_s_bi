@@ -9,7 +9,7 @@ This project is an interactive Power BI dashboard designed to analyze and foreca
 
 ## 🚀 Key Features
 
-* Sales Performance Analysis: Visualize sales, profit, and quantity across product categories, sub-categories, a nd regions.
+* Sales Performance Analysis: Visualize sales, profit, and quantity across product categories, sub-categories, and regions.
 
 * Financial Forecasting: Implemented a 15-day sales forecast using time-series analysis, helping stakeholders with proactive planning.
 
