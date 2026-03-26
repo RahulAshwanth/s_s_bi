@@ -1,6 +1,6 @@
 # Superstore Sales Forecasting & Insights Dashboard 📊
 ## Author
-### Rahul Ashwanthmm
+### Rahul Ashwanthmmm
 
 
 ## 📝 Project Overview
