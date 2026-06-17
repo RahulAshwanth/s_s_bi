@@ -4,7 +4,7 @@
 
 
 ## 📝 Project Overview
-
+d
 This project is an interactive Power BI dashboard designed to analyze and forecast Superstore sales performance. It provides actionable insights by monitoring key financial KPIs, visualizing sales trends, and enabling data-driven decision-making. The dashboard integrates data from multiple sources, ensuring data accuracy and consistency for advanced financial analysis.
 
 ## 🚀 Key Features
